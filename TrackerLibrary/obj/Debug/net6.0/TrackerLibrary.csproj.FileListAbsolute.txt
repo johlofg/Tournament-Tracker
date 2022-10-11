@@ -1,0 +1,12 @@
+C:\Users\johlof01\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\net6.0\TrackerLibrary.deps.json
+C:\Users\johlof01\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\net6.0\TrackerLibrary.dll
+C:\Users\johlof01\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\net6.0\TrackerLibrary.pdb
+C:\Users\johlof01\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.csproj.AssemblyReference.cache
+C:\Users\johlof01\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johlof01\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.AssemblyInfoInputs.cache
+C:\Users\johlof01\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.AssemblyInfo.cs
+C:\Users\johlof01\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\johlof01\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.dll
+C:\Users\johlof01\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\refint\TrackerLibrary.dll
+C:\Users\johlof01\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.pdb
+C:\Users\johlof01\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\ref\TrackerLibrary.dll
